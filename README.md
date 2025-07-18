@@ -36,3 +36,28 @@ cd xblock-prototype
 
 # Jalankan node
 ./scripts/start-node.sh
+
+
+
+🧰 Tools Developer
+scripts/dev-wallet.sh → Generate wallet terenkripsi
+scripts/deploy.sh → Simulasi deploy node lokal
+chain/genesis.json → Konfigurasi awal chain
+
+🛠 Rencana Fitur Selanjutnya
+Explorer ringan via GitHub Pages
+
+Sistem validator komunitas
+
+Smart contract basic untuk XblockApps
+
+Integrasi DEX ringan
+
+📜 Lisensi
+Proyek ini dilisensikan dengan MIT License. Bebas digunakan dan dimodifikasi untuk inovasi terbuka!
+
+🤝 Kontribusi
+Kami membuka peluang kontribusi dari developer, tester, dan komunitas crypto lokal/global. Silakan fork, ajukan PR, atau diskusi melalui issue.
+
+📬 Kontak & Komunitas
+GitHub: @dirha1996
